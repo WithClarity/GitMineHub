@@ -24,31 +24,11 @@
 
 ### Prerequisites
 
-- Node.js
-- npm (Node Package Manager)
-- Git
-- A secure Linux server (e.g., Ubuntu Server, CentOS)
+WIP
 
 ### Installation
 
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/GitMineHub.git
-    cd GitMineHub
-    ```
-
-2. **Set Up the Server**:
-    Follow the instructions in the `server-setup.md` file to configure your Linux server.
-
-3. **Install Dependencies**:
-    ```bash
-    npm install
-    ```
-
-4. **Run the Application**:
-    ```bash
-    npm start
-    ```
+WIP
 
 ## Usage
 
