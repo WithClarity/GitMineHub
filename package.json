@@ -1,0 +1,16 @@
+{
+  "name": "gitminehub",
+  "version": "1.0.0",
+  "description": "**GitMineHub** is a collaborative Minecraft build tool designed to streamline the process of map creation and ensure secure version control. With GitMineHub, multiple builders can work on the same map simultaneously without the risk of griefing, thanks to an integrated approval system and change detection.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
